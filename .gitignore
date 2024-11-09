@@ -1,2 +1,3 @@
 # Ignore CIFAR-10 dataset
 data/
+broken/
